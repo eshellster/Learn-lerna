@@ -22,6 +22,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "commander": "^8.1.0"
+    "commander": "^8.1.0",
+    "log-core": "^1.0.0"
   }
 }
