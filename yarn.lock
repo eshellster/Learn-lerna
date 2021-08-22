@@ -2733,7 +2733,7 @@ kind-of@^6.0.2, kind-of@^6.0.3:
 
 lerna@^4.0.0:
   version "4.0.0"
-  resolved "https://registry.npmjs.org/lerna/-/lerna-4.0.0.tgz"
+  resolved "https://registry.yarnpkg.com/lerna/-/lerna-4.0.0.tgz#b139d685d50ea0ca1be87713a7c2f44a5b678e9e"
   integrity sha512-DD/i1znurfOmNJb0OBw66NmNqiM8kF6uIrzrJ0wGE3VNdzeOhz9ziWLYiRaZDGGwgbcjOo6eIfcx9O5Qynz+kg==
   dependencies:
     "@lerna/add" "4.0.0"
@@ -2868,6 +2868,11 @@ lodash@^4.17.15, lodash@^4.17.19, lodash@^4.7.0:
   version "4.17.21"
   resolved "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
+
+log-core@@eshell/log-core:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/log-core/-/log-core-1.0.1.tgz#fcb0b4715f704f442bc7e769bfd2107808d5fe8d"
+  integrity sha512-JM7z6BqtQbhoLjY9WAHrWBKKU8JLB0q2h95cWsUG/dD1c3rqBRR39B7NWP1aQGQyoGQYQYgpqf7LyNbxVx8nLQ==
 
 lru-cache@^6.0.0:
   version "6.0.0"

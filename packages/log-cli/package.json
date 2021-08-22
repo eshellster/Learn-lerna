@@ -1,5 +1,5 @@
 {
-  "name": "log-cli",
+  "name": "@eshell/log-cli",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "eshell <eshellster@gmail.com>",
@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "commander": "^8.1.0",
-    "log-core": "^1.0.0"
+    "log-core": "@eshell/log-core"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "log-core",
+  "name": "@eshell/log-core",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "eshell <eshellster@gmail.com>",
