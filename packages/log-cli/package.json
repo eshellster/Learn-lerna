@@ -24,5 +24,6 @@
   "dependencies": {
     "commander": "^8.1.0",
     "log-core": "@eshell/log-core"
-  }
+  },
+  "gitHead": "07fe034fb040858f102faacc4841d3cfdbbb6541"
 }

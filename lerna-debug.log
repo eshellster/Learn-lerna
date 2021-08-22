@@ -1,0 +1,6 @@
+42 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin master
+42 error remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+42 error remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+42 error fatal: Authentication failed for 'https://github.com/eshellster/Learn-lerna.git/'
+42 error     at makeError (/Users/sungvumkim/dev/Learn/Learn-lerna/node_modules/execa/lib/error.js:60:11)
+42 error     at handlePromise (/Users/sungvumkim/dev/Learn/Learn-lerna/node_modules/execa/index.js:118:26)
